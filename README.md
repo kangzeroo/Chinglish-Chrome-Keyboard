@@ -7,6 +7,7 @@ Visit chrome://extensions and make sure you are in developer mode. Click the "Lo
 
 ## TO DO
 - Convert from ReactJS to Chrome Extension (may need to play around with key event listeners and override input values)
+- You will want to still use `react-react-app`. Just follow [this tutorial](https://medium.com/@gilfink/building-a-chrome-extension-using-react-c5bfe45aaf36)
 
 ## USEFUL LINKS
 - [Neural Pinyin Predictor](https://github.com/Kyubyong/neural_chinese_transliterator)

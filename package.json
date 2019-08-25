@@ -4,12 +4,15 @@
   "private": true,
   "dependencies": {
     "antd": "^3.22.0",
+    "firebase": "^6.4.2",
+    "lodash": "^4.17.15",
     "pinyin-api": "github:pepebecker/pinyin-api",
     "pinyin-or-hanzi": "^1.57.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "rxjs": "^6.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prettier": "1.18.2"
   }
 }

@@ -5,7 +5,7 @@
   "dependencies": {
     "antd": "^3.22.0",
     "firebase": "^6.4.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "pinyin-api": "github:pepebecker/pinyin-api",
     "pinyin-or-hanzi": "^1.57.0",
     "react": "^16.9.0",
